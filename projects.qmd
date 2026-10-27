@@ -1,0 +1,11 @@
+---
+title: "Projects"
+---
+
+## Project One
+
+A sentence or two about the project, what you did, and what you found.
+
+## Project Two
+
+A sentence or two about the project.

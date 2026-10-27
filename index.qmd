@@ -1,0 +1,28 @@
+---
+title: "Hannah Jorgensen"
+image: profile.jpg   # drop a photo in this folder and uncomment this line
+about:
+  template: jolla      # other options: trestles, solana, marquee, broadside
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: www.linkedin.com/in/hannah-jorg
+    - icon: github
+      text: GitHub
+      href: https://github.com
+    - icon: envelope
+      text: Email
+      href: hannahleejorgy@gmail.com
+---
+
+A short intro about who you are and what you do.
+
+## Education
+
+**Utah State University** \| BS, Data Analytics \| May 2027
+
+## Experience
+
+**Organization** \| Role \| Dates
+
+- One line about what you did

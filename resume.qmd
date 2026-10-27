@@ -1,0 +1,7 @@
+---
+title: "Resume"
+---
+
+Put resume content here, or link a PDF you drop into this folder:
+
+[Download my resume](resume.pdf)
