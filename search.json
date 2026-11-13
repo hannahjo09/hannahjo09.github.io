@@ -21,6 +21,34 @@
     "text": "Experience\nOrganization | Role | Dates\n\nOne line about what you did"
   },
   {
+    "objectID": "fun.html",
+    "href": "fun.html",
+    "title": "Beyond Work",
+    "section": "",
+    "text": "A sentence or two about what you’re like outside school and work."
+  },
+  {
+    "objectID": "fun.html#seasonal-work",
+    "href": "fun.html#seasonal-work",
+    "title": "Beyond Work",
+    "section": "Seasonal Work",
+    "text": "Seasonal Work\nJob / Place | Season, Year\nWhat you did and what made it interesting."
+  },
+  {
+    "objectID": "fun.html#travel",
+    "href": "fun.html#travel",
+    "title": "Beyond Work",
+    "section": "Travel",
+    "text": "Travel\nPlaces you’ve been and a highlight or two.\n\n\n\n\n\n\nCaption one\n\n\n\n\n\n\n\nCaption two\n\n\n\n\n\n\n\nCaption three"
+  },
+  {
+    "objectID": "fun.html#hobbies",
+    "href": "fun.html#hobbies",
+    "title": "Beyond Work",
+    "section": "Hobbies",
+    "text": "Hobbies\n\nHobby one\nHobby two\nHobby three"
+  },
+  {
     "objectID": "resume.html",
     "href": "resume.html",
     "title": "Resume",
