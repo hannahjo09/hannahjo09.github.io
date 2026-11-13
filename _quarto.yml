@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Your Name"
+  title: "Hannah Jorgensen"
   navbar:
     left:
       - href: index.qmd
@@ -11,8 +11,11 @@ website:
         text: Projects
       - href: resume.qmd
         text: Resume
+      - href: fun.qmd
+        text: Beyond Tech # TODO change this to something better
+        
 
 format:
   html:
-    theme: cosmo        # try: flatly, litera, minty, lux, darkly, etc.
+    theme: lux        # try: flatly, litera, minty, lux, darkly, etc.
     css: styles.css

@@ -1,0 +1,29 @@
+---
+title: "Beyond Work"
+---
+
+A sentence or two about what you're like outside school and work.
+
+## Seasonal Work
+
+**Job / Place** | Season, Year
+
+What you did and what made it interesting.
+
+## Travel
+
+Places you've been and a highlight or two.
+
+::: {layout-ncol=3}
+![Caption one](photo1.jpg)
+
+![Caption two](photo2.jpg)
+
+![Caption three](photo3.jpg)
+:::
+
+## Hobbies
+
+- Hobby one
+- Hobby two
+- Hobby three
